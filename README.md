@@ -197,3 +197,11 @@ The optional sub-projects in integration also have several dependencies. See tho
 For questions or comments about BoofCV please use the message board.  Only post a bug report after doing some due diligence to make sure it is really a bug and that it has not already been reported.
 
 [Message Board](http://groups.google.com/group/boofcv)
+
+-------------------------------------
+
+BoofCV 是一个 Java 的全新实时的计算机视觉库，BoofCV 易于使用而且具有非常高的性能。它提供了一系列从低层次的图像处理、小波去噪功能以及更高层次的三维几何视野。使用 BSD 许可证可在商业应用中使用。
+
+这里有篇英文文章用来介绍 BoofCV 的使用。
+
+<image src="http://static.oschina.net/uploads/img/201112/02074100_7N8U.jpg" />
